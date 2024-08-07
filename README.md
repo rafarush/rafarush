@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafarush
-- 👀 I’m interested in improve my programming skills and increase my knowledge about this tecnological world!!!
+- 👀 I’m interested in improve my programming skills and increase my knowledge
 - 🌱 I’m currently learning java...
 
 <!---
