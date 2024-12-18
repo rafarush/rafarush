@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafarush
 - 👀 I’m interested in improve my programming skills and increase my knowledge
-- 🌱 Basic knowledge java...
+- 🌱 Basic knowledge of Java
 - 🌱 I’m currently learning Django...
 
 <!---
