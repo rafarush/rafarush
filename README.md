@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @rafarush
-- 👀 I’m interested in improve my programming skills and increase my knowledge
-- ☕ Basic knowledge of Java
-- 🐍 Basic knowledge of Django
-- 🌱 I’m currently learning dotNet...
+# 👋 Hi, I’m @rafarush
+
+## 👀 About Me
+I’m passionate about improving my programming skills and expanding my knowledge in software development.
+
+## 🌱 Currently Learning
+- 🌿 **.NET** - diving into the Microsoft ecosystem and C# development.
+
+## 💻 Skills
+- ☕ **Basic knowledge of Java**  
+- 🐍 **Basic knowledge of Django (Python framework)**
+
+## 🚀 Goals
+- Strengthen my programming fundamentals  
+- Build real-world projects to apply what I learn  
+- Explore backend and full-stack development  
+
+---
+
+Feel free to connect with me or check out my repositories!  
+Let’s learn and grow together. 😊
 
 <!---
 rafarush/rafarush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
