@@ -8,7 +8,8 @@ I’m passionate about improving my programming skills and expanding my knowledg
 
 ## 💻 Skills
 - ☕ **Intermediate knowledge of Java**  
-- 🐍 **Basic knowledge of Django (Python framework)**
+- 🐍 **Intermediate knowledge of Django (Python framework)**
+- 🐍 **Basic knowledge of FastApi (Python framework)**
 
 ## 🚀 Goals
 - Strengthen my programming fundamentals  
