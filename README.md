@@ -7,7 +7,7 @@ I’m passionate about improving my programming skills and expanding my knowledg
 - 🌿 **.NET** - diving into the Microsoft ecosystem and C# development.
 
 ## 💻 Skills
-- ☕ **Basic knowledge of Java**  
+- ☕ **Intermediate knowledge of Java**  
 - 🐍 **Basic knowledge of Django (Python framework)**
 
 ## 🚀 Goals
