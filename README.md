@@ -20,7 +20,7 @@ I’m passionate about improving my programming skills and expanding my knowledg
 ---
 
 Feel free to connect with me or check out my repositories!  
-Let’s learn and grow together. 😊
+Let’s learn and grow together.
 
 <!---
 rafarush/rafarush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
