@@ -7,10 +7,9 @@ I’m passionate about improving my programming skills and expanding my knowledg
 - 🐘 Laravel - starting to learn this PHP framework for modern web development
 
 ## 💻 Skills
-- ☕ **Intermediate knowledge of Java**
 - 🟣 **Intermediate knowledge of .NET**
-- 💠 **Intermediate knowledge of .NET**
 - 🐍 **Intermediate knowledge of Django (Python framework)**
+- ☕ **Intermediate knowledge of Java**
 - 🐍 **Basic knowledge of FastApi (Python framework)**
 
 ## 🚀 Goals
