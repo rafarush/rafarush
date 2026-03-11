@@ -13,7 +13,7 @@ I’m passionate about improving my programming skills and expanding my knowledg
   - 🐍 **FastApi (Python framework)**
   - 🐍 **Django (Python framework)**
   - ☕ **Java**
-  - 🐘 **Laravel**
+  - 🐘 **Laravel (PHP framework)**
 
 ## 🚀 Goals
 - Strengthen my programming fundamentals  
