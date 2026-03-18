@@ -4,16 +4,16 @@
 I’m passionate about improving my programming skills and expanding my knowledge in software development.
 
 ## 🌱 Currently Learning
-- 🐘 **Laravel** - deepening my knowledge in this PHP framework
 - 🟢 **Vue.js** - just starting to explore this JavaScript framework
 
 ## 💻 Skills
+### **Basic knowledge:**
+  - 🐘 **Laravel (PHP framework)**
 ### **Intermediate knowledge:**
   - 🟣 **.NET**
   - 🐍 **FastApi (Python framework)**
   - 🐍 **Django (Python framework)**
   - ☕ **Java**
-  - 🐘 **Laravel (PHP framework)**
 
 ## 🚀 Goals
 - Strengthen my programming fundamentals  
