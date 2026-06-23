@@ -21,12 +21,13 @@ I also have experience with **Python**, **FastAPI**, **Django**, **Java**, and r
 - 🧠 **Redis**
 - 🍃 **MongoDB**
 - ☁️ **S3 / MinIO**
+- - 🐳 **Docker**
 
 ### **Other backend experience:**
 - 🐍 **FastAPI**
 - 🐍 **Django**
 - ☕ **Spring Boot**
-- 🐳 **Docker**
+
 
 ### **Frontend basics:**
 - 🟢 **Vue.js**
