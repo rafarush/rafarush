@@ -1,31 +1,44 @@
 # 👋 Hi, I’m @rafarush
 
 ## 👀 About Me
-I’m passionate about improving my programming skills and expanding my knowledge in software development.
+I’m a backend developer focused on building scalable, maintainable, and well-structured applications.
 
-## 🌱 Currently Learning
-- 🟢 **Vue.js** - just starting to explore this JavaScript framework
+I specialize in **.NET** and enjoy working with clean architecture, APIs, authentication, authorization, and database design.  
+I also have experience with **Python**, **FastAPI**, **Django**, **Java**, and relational databases like **PostgreSQL**.
 
 ## 💻 Skills
-### **Basic knowledge:**
-  - 🐘 **Laravel (PHP framework)**
-### **Intermediate knowledge:**
-  - 🟣 **.NET**
-  - 🐍 **FastApi (Python framework)**
-  - 🐍 **Django (Python framework)**
-  - ☕ **Java**
+
+### **Backend:**
+- 🌿 **.NET / ASP.NET Core**
+- 🧩 **Clean Architecture**
+- 🔁 **CQRS**
+- 📬 **MediatR**
+- 🗃️ **Entity Framework Core**
+- ⚡ **Dapper**
+- 🔐 **Authentication & Authorization**
+- 🐘 **PostgreSQL**
+- 🐇 **RabbitMQ**
+- 🧠 **Redis**
+- 🍃 **MongoDB**
+- ☁️ **S3 / MinIO**
+
+### **Other backend experience:**
+- 🐍 **FastAPI**
+- 🐍 **Django**
+- ☕ **Spring Boot**
+- 🐳 **Docker**
+
+### **Frontend basics:**
+- 🟢 **Vue.js**
+- 🟩 **Nuxt**
+- ⚛️ **React / Next.js**
 
 ## 🚀 Goals
-- Strengthen my programming fundamentals  
-- Build real-world projects to apply what I learn  
-- Explore backend and full-stack development  
+- Strengthen my backend skills, especially in **.NET**
+- Build real-world projects with solid architecture
+- Improve my knowledge of distributed systems and infrastructure
+- Keep learning and growing as a developer
 
----
-
-Feel free to connect with me or check out my repositories!  
+## 🤝 Contact
+Feel free to connect with me or check out my repositories.  
 Let’s learn and grow together.
-
-<!---
-rafarush/rafarush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
