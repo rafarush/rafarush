@@ -30,8 +30,7 @@ I also have experience with **Python**, **FastAPI**, **Django**, **Java**, and r
 
 
 ### **Frontend basics:**
-- 🟢 **Vue.js**
-- 🟩 **Nuxt**
+- 🟢 **Vue.js / Nuxt**
 - ⚛️ **React / Next.js**
 
 ## 🚀 Goals
